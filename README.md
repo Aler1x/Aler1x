@@ -6,7 +6,7 @@
 I'm a software engineer with a passion for building things.
 </p>
 
-### Technologies & Tools
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="28" height="28" /> Technologies & Tools
 
 #### Frontend
 
@@ -45,7 +45,7 @@ I'm a software engineer with a passion for building things.
 ![vscode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![jetbrains](https://img.shields.io/badge/-JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white)
 
-## Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28" /> Stats
 
 <p align='center'>
   <p align=center>
