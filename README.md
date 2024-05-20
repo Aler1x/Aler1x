@@ -49,13 +49,14 @@ I'm a software engineer with a passion for building things.
 
 <p align='center'>
   <p align=center>
-    <img src='https://github-readme-stats.vercel.app/api?username=Aler1x&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide_title=true&icon_color=dadada' alt='Github Stats'>
+    <img src='https://github-readme-stats.vercel.app/api/?username=Aler1x&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide_title=true&icon_color=dadada' alt='Github Stats'>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Aler1x&theme=dark&hide_border=true&include_all_commits=true&layout=compact' alt='Most Used Languages'>
   </p>
   <p align='center'>
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=Aler1x&theme=dark&hide_border=true' alt='Streak Stats'>
   </p>
 </p>
+
 <!--
 **Aler1x/Aler1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
