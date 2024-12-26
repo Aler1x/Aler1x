@@ -24,21 +24,17 @@ I'm a software engineer with a passion for building things.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Technologies & Tools
 
-#### Frontend
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=js,typescript,tailwind,react,nextjs,expo,vuejs,inertia,pinia,clerk)
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,tailwind,react,nextjs,vuejs,nuxt,pinia)](https://skillicons.dev)
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,nestjs,elysia,laravel,golang)
 
-#### Backend
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,mongodb)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,elysia,laravel,golang)](https://skillicons.dev)
+![AI](https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt)
 
-#### Database
+![Favorite Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,phpstorm,docker,wsl,aws,vercel)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
-
-#### Favorite Tools
-
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,phpstorm,docker,obsidian,linux,figma,aws,vercel)](https://skillicons.dev)
+![Favorite Apps](https://go-skill-icons.vercel.app/api/icons?i=obsidian,figma,firefox,telegram)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Stats
 
