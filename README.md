@@ -38,8 +38,18 @@ I'm a software engineer with a passion for building things.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Stats
 
-<div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/?username=aler1x&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide_title=true&icon_color=dadada&rank_icon=github' alt='Github Stats'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Aler1x&theme=dark&hide_border=true&include_all_commits=true&layout=compact' alt='Most Used Languages'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=Aler1x&theme=dark&hide_border=true&mode=weekly' alt='Streak Stats'>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src='https://github-readme-stats.vercel.app/api/?username=aler1x&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide_title=true&icon_color=dadada&rank_icon=github' alt='Github Stats'>
+    </td>
+    <td>
+      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Aler1x&theme=dark&hide_border=true&include_all_commits=true&layout=compact' alt='Most Used Languages'>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 align="center">
+      <img src='https://github-readme-streak-stats.herokuapp.com/?user=Aler1x&theme=dark&hide_border=true&mode=weekly' alt='Streak Stats'>
+    </td>
+  </tr>
+</table>
