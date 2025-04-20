@@ -24,17 +24,13 @@ I'm a software engineer with a passion for building things.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Technologies & Tools
 
-![Frontend](https://go-skill-icons.vercel.app/api/icons?i=js,typescript,tailwind,react,nextjs,expo,vuejs,inertia,pinia,clerk)
+![Client](https://go-skill-icons.vercel.app/api/icons?i=typescript,tailwind,react,nextjs,expo,vuejs,nuxt,pinia,clerk)
 
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,nestjs,elysia,laravel,golang)
-
-![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,mongodb)
+![Server](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,laravel,golang,mysql,postgresql,mongodb,supabase)
 
 ![AI](https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt)
 
-![Favorite Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,phpstorm,docker,wsl,aws,vercel)
-
-![Favorite Apps](https://go-skill-icons.vercel.app/api/icons?i=obsidian,figma,firefox,telegram)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,docker,wsl,aws,vercel,figma)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Stats
 
