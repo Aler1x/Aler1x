@@ -28,7 +28,7 @@ I'm a software engineer with a passion for building things.
 
 ![Server](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,laravel,golang,mysql,postgresql,mongodb,supabase)
 
-![AI](https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt)
+![AI](https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,gemini)
 
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,docker,wsl,aws,vercel,figma)
 
