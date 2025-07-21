@@ -24,7 +24,7 @@ I'm a software engineer with a passion for building things.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Technologies & Tools
 
-![Client](https://go-skill-icons.vercel.app/api/icons?i=typescript,tailwind,react,nextjs,expo,vuejs,nuxt,pinia,clerk)
+![Client](https://go-skill-icons.vercel.app/api/icons?i=typescript,tailwind,react,nextjs,reactnative,expo,vuejs,nuxt,pinia,clerk)
 
 ![Server](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,laravel,golang,mysql,postgresql,mongodb,supabase)
 
