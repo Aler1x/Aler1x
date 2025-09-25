@@ -30,7 +30,7 @@ I'm a software engineer with a passion for building things.
 
 ![AI](https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,gemini)
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,docker,wsl,aws,vercel,figma)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,docker,wsl,aws,vercel,railway,figma)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Stats
 
