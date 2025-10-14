@@ -24,13 +24,13 @@ I'm a software engineer with a passion for building things.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Technologies & Tools
 
-![Client](https://go-skill-icons.vercel.app/api/icons?i=typescript,tailwind,react,nextjs,reactnative,expo,vuejs,nuxt,pinia,clerk)
+![Client](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,reactnative,expo,vuejs,nuxt,tailwind)
 
-![Server](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,laravel,golang,mysql,postgresql,mongodb,supabase)
+![API](https://go-skill-icons.vercel.app/api/icons?i=typescript,golang,nodejs,express,nest,laravel,mysql,postgresql,mongodb,supabase)
 
 ![AI](https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,gemini)
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,docker,wsl,aws,vercel,railway,figma)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,linux,aws,vercel,railway,figma)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Stats
 
