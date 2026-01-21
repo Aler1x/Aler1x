@@ -24,7 +24,7 @@ I'm a software engineer with a passion for building things.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> Technologies & Tools
 
-![Client](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,reactnative,expo,vuejs,nuxt,tailwind)
+![Client](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,reactnative,expo,vuejs,nuxt,svelte,tailwind)
 
 ![API](https://go-skill-icons.vercel.app/api/icons?i=typescript,golang,nodejs,express,nest,laravel,mysql,postgresql,mongodb,supabase)
 
