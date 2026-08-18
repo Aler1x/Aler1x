@@ -23,13 +23,13 @@ I'm a software engineer with a passion for building things.
 
 ## Technologies & Tools
 
-![Client](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,reactnative,expo,vuejs,nuxt,svelte,tailwind)
+![Client](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,reactnative,expo,svelte,tailwind)
 
-![API](https://go-skill-icons.vercel.app/api/icons?i=typescript,golang,nodejs,express,nest,laravel,mysql,postgresql,mongodb,supabase)
+![API](https://go-skill-icons.vercel.app/api/icons?i=typescript,nodejs,nest,laravel,mysql,postgresql,mongodb)
 
-![AI](https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,gemini)
+![AI](https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,gemini,cursor)
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,linux,aws,vercel,railway,figma)
+![Infra](https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,railway,cloudflare,vercel,aws,linux,wsl)
 
 ## Stats
 
