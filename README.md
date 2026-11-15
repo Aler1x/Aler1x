@@ -23,15 +23,15 @@ I'm a software engineer with a passion for building things.
 
 ## Technologies & Tools
 
-![Client](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,expo,svelte,tailwind)
+![Client](https://skill-icons-theta.vercel.app/api/icons?i=react,nextjs,expo,svelte,tailwind)
 
-![API](https://go-skill-icons.vercel.app/api/icons?i=typescript,nodejs,nest,laravel,mysql,postgresql,mongodb)
+![API](https://skill-icons-theta.vercel.app/api/icons?i=typescript,nodejs,nest,laravel,mysql,postgresql,mongodb)
 <!--
 ![Android](https://skills.syvixor.com/api/icons?i=android,kotlin,jetpackcompose,kotlinmultiplatform)
 -->
-![AI](https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,gemini,cursor)
+![AI](https://skill-icons-theta.vercel.app/api/icons?i=claude,chatgpt,gemini,cursor)
 
-![Infra](https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,railway,cloudflare,vercel,aws,linux,wsl)
+![Infra](https://skill-icons-theta.vercel.app/api/icons?i=git,github,docker,railway,cloudflare,vercel,aws,linux,wsl)
 
 ## Stats
 
